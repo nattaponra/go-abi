@@ -1,4 +1,4 @@
-module go-abi
+module github.com/nattaponra/go-abi
 
 go 1.19
 
